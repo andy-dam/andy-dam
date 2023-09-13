@@ -8,6 +8,7 @@ Right now, I'm very interested in software development⚙, web design⌨, app de
 I'm open to any tips, advice, and internship opportunities in the computer science world, so please feel free to reach out to me about these topics!
 
 **Languages and Frameworks**
+
 Java | C++ | Javascript | Dart | Flutter
 
 - 🌱 I’m currently learning C++ and Javascript
