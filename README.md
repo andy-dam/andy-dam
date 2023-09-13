@@ -1,5 +1,5 @@
 ### Hey there!👋
-![52715752881_19a95e7565_o](https://github.com/andy-dam/andy-dam/assets/110382427/5364d610-6598-42e8-833a-dbc3fb1c17b1)
+![asdasdasd](https://github.com/andy-dam/andy-dam/assets/110382427/890afbfa-9f6b-4f6c-a1e8-dc4d64aee19d)
 
 My name is Andy Dam, and I'm from Spring, TX. I am currently attending the University of Texas at Dallas studying towards a B.S. in Computer Science. ☄
 
