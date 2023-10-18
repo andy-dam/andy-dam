@@ -9,7 +9,7 @@ I'm open to any tips, advice, and internship opportunities in the computer scien
 
 **Languages and Frameworks**
 
-Java | C++ | JavaScript | Dart | Flutter
+Java | C++ | JavaScript | HTML | CSS | React.js | Flutter
 
 - 🌱 I’m currently learning C++, JavaScript, and React
 - 🤔 I’m looking for help with internships and resume-building
