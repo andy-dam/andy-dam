@@ -14,8 +14,7 @@ Java | C++ | JavaScript | HTML | CSS | React.js | Flutter
 - 🌱 I’m currently learning C++, JavaScript, and React
 - 🤔 I’m looking for help with internships and resume-building
 - 📫 How to reach me: andydam (LinkedIn), andy-dam@outlook.com
-- ⚡ Fun fact: I've played the viola for 8 years now and I'm looking to minor in Music!
-
+- ⚡ Fun fact: I've played the viola for 8 years now, and I hope to participate in the University Orchestra at UTD!
 <!--
 **andy-dam/andy-dam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
