@@ -9,9 +9,9 @@ I'm open to any tips, advice, and internship opportunities in the computer scien
 
 **Languages and Frameworks**
 
-Java | C++ | JavaScript | HTML | CSS | React.js | Flutter
+Java | C++ | Python | JavaScript | HTML | CSS | React.js | Flutter
 
-- 🌱 I’m currently learning C++, JavaScript, and React
+- 🌱 I’m currently learning C++, Python, JavaScript, and React
 - 🤔 I’m looking for help with internships and resume-building
 - 📫 How to reach me: andydam (LinkedIn), andy-dam@outlook.com
 - ⚡ Fun fact: I've played the viola for 8 years now, and I hope to participate in the University Orchestra at UTD!
