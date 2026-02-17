@@ -1,5 +1,4 @@
 ### Hey there!👋
-![asdasdasd](https://github.com/andy-dam/andy-dam/assets/110382427/890afbfa-9f6b-4f6c-a1e8-dc4d64aee19d)
 
 My name is Andy Dam, and I'm from Spring, TX. I am currently attending the University of Texas at Dallas.☄ I'm currently pursuing my Bachelor's in Computer Science (expected May 2026) with plans to fast-track to a Master's in Computer Science with a track in Intelligent Systems (expected May 2027).🎓
 
